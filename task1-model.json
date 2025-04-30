@@ -1,0 +1,295 @@
+{
+    "AEROLÍNEA": [
+      {
+        "Id_aerolínea": 1,
+        "Nombre": "Iberia",
+        "País": "España"
+      },
+      {
+        "Id_aerolínea": 2,
+        "Nombre": "Air France",
+        "País": "Francia"
+      },
+      {
+        "Id_aerolínea": 3,
+        "Nombre": "Lufthansa",
+        "País": "Alemania"
+      },
+      {
+        "Id_aerolínea": 4,
+        "Nombre": "KLM",
+        "País": "Países Bajos"
+      },
+      {
+        "Id_aerolínea": 5,
+        "Nombre": "British Airways",
+        "País": "Reino Unido"
+      },
+      {
+        "Id_aerolínea": 6,
+        "Nombre": "Ryanair",
+        "País": "Irlanda"
+      },
+      {
+        "Id_aerolínea": 7,
+        "Nombre": "easyJet",
+        "País": "Reino Unido"
+      },
+      {
+        "Id_aerolínea": 8,
+        "Nombre": "Turkish Airlines",
+        "País": "Turquía"
+      },
+      {
+        "Id_aerolínea": 9,
+        "Nombre": "Swiss International Air Lines",
+        "País": "Suiza"
+      }
+    ],
+    "AVIÓN": [
+      {
+        "Id_avión": 1,
+        "Modelo": "A319",
+        "Tipo_de_avión": "Airbus"
+      },
+      {
+        "Id_avión": 2,
+        "Modelo": "A320",
+        "Tipo_de_avión": "Airbus"
+      },
+      {
+        "Id_avión": 3,
+        "Modelo": "A320neo",
+        "Tipo_de_avión": "Airbus"
+      },
+      {
+        "Id_avión": 4,
+        "Modelo": "A321",
+        "Tipo_de_avión": "Airbus"
+      },
+      {
+        "Id_avión": 5,
+        "Modelo": "A330-200",
+        "Tipo_de_avión": "Airbus"
+      },
+      {
+        "Id_avión": 6,
+        "Modelo": "A330-300",
+        "Tipo_de_avión": "Airbus"
+      },
+      {
+        "Id_avión": 7,
+        "Modelo": "A350-900",
+        "Tipo_de_avión": "Airbus"
+      },
+      {
+        "Id_avión": 8,
+        "Modelo": "B777-200ER",
+        "Tipo_de_avión": "Boeing"
+      },
+      {
+        "Id_avión": 9,
+        "Modelo": "B777-300ER",
+        "Tipo_de_avión": "Boeing"
+      },
+      {
+        "Id_avión": 10,
+        "Modelo": "B787-9",
+        "Tipo_de_avión": "Boeing"
+      },
+      {
+        "Id_avión": 11,
+        "Modelo": "B747-400",
+        "Tipo_de_avión": "Boeing"
+      },
+      {
+        "Id_avión": 12,
+        "Modelo": "B747-8",
+        "Tipo_de_avión": "Boeing"
+      },
+      {
+        "Id_avión": 13,
+        "Modelo": "B737-700",
+        "Tipo_de_avión": "Boeing"
+      },
+      {
+        "Id_avión": 14,
+        "Modelo": "B737-800",
+        "Tipo_de_avión": "Boeing"
+      },
+      {
+        "Id_avión": 15,
+        "Modelo": "B737-900",
+        "Tipo_de_avión": "Boeing"
+      },
+      {
+        "Id_avión": 16,
+        "Modelo": "B787-10",
+        "Tipo_de_avión": "Boeing"
+      },
+      {
+        "Id_avión": 17,
+        "Modelo": "A220",
+        "Tipo_de_avión": "Airbus"
+      },
+      {
+        "Id_avión": 18,
+        "Modelo": "A318",
+        "Tipo_de_avión": "Airbus"
+      },
+      {
+        "Id_avión": 19,
+        "Modelo": "A340",
+        "Tipo_de_avión": "Airbus"
+      },
+      {
+        "Id_avión": 20,
+        "Modelo": "A350-1000",
+        "Tipo_de_avión": "Airbus"
+      },
+      {
+        "Id_avión": 21,
+        "Modelo": "B787-8",
+        "Tipo_de_avión": "Boeing"
+      },
+      {
+        "Id_avión": 22,
+        "Modelo": "B787-10",
+        "Tipo_de_avión": "Boeing"
+      },
+      {
+        "Id_avión": 23,
+        "Modelo": "B737 MAX 8-200",
+        "Tipo_de_avión": "Boeing"
+      },
+      {
+        "Id_avión": 24,
+        "Modelo": "A321neo",
+        "Tipo_de_avión": "Airbus"
+      },
+      {
+        "Id_avión": 25,
+        "Modelo": "B737 MAX",
+        "Tipo_de_avión": "Boeing"
+      },
+      {
+        "Id_avión": 26,
+        "Modelo": "A340-300",
+        "Tipo_de_avión": "Airbus"
+      }
+    ],
+    "TIENE": [
+      {
+        "Id_aerolínea": 1,
+        "Id_avión": 1,
+        "Año_de_introducción": 2000,
+        "Cantidad": 10
+      },
+      {
+        "Id_aerolínea": 1,
+        "Id_avión": 2,
+        "Año_de_introducción": 2005,
+        "Cantidad": 15
+      },
+      {
+        "Id_aerolínea": 1,
+        "Id_avión": 3,
+        "Año_de_introducción": 2010,
+        "Cantidad": 5
+      },
+      {
+        "Id_aerolínea": 2,
+        "Id_avión": 17,
+        "Año_de_introducción": 2018,
+        "Cantidad": 8
+      },
+      {
+        "Id_aerolínea": 2,
+        "Id_avión": 18,
+        "Año_de_introducción": 2003,
+        "Cantidad": 12
+      },
+      {
+        "Id_aerolínea": 2,
+        "Id_avión": 19,
+        "Año_de_introducción": 2008,
+        "Cantidad": 6
+      },
+      {
+        "Id_aerolínea": 3,
+        "Id_avión": 11,
+        "Año_de_introducción": 1995,
+        "Cantidad": 4
+      },
+      {
+        "Id_aerolínea": 3,
+        "Id_avión": 12,
+        "Año_de_introducción": 2012,
+        "Cantidad": 3
+      },
+      {
+        "Id_aerolínea": 3,
+        "Id_avión": 19,
+        "Año_de_introducción": 2000,
+        "Cantidad": 7
+      },
+      {
+        "Id_aerolínea": 4,
+        "Id_avión": 5,
+        "Año_de_introducción": 2002,
+        "Cantidad": 9
+      },
+      {
+        "Id_aerolínea": 4,
+        "Id_avión": 6,
+        "Año_de_introducción": 2006,
+        "Cantidad": 10
+      },
+      {
+        "Id_aerolínea": 4,
+        "Id_avión": 13,
+        "Año_de_introducción": 2015,
+        "Cantidad": 5
+      },
+      {
+        "Id_aerolínea": 5,
+        "Id_avión": 20,
+        "Año_de_introducción": 2019,
+        "Cantidad": 4
+      },
+      {
+        "Id_aerolínea": 5,
+        "Id_avión": 21,
+        "Año_de_introducción": 2017,
+        "Cantidad": 6
+      },
+      {
+        "Id_aerolínea": 5,
+        "Id_avión": 22,
+        "Año_de_introducción": 2020,
+        "Cantidad": 3
+      },
+      {
+        "Id_aerolínea": 6,
+        "Id_avión": 14,
+        "Año_de_introducción": 2008,
+        "Cantidad": 20
+      },
+      {
+        "Id_aerolínea": 6,
+        "Id_avión": 23,
+        "Año_de_introducción": 2019,
+        "Cantidad": 10
+      },
+      {
+        "Id_aerolínea": 7,
+        "Id_avión": 1,
+        "Año_de_introducción": 2001,
+        "Cantidad": 12
+      },
+      {
+        "Id_aerolínea": 7,
+        "Id_avión": 2
+      }
+    ]
+}
